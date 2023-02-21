@@ -3,6 +3,12 @@ import java.util.Arrays;
 
 class Assignment3{
 
+<<<<<<< HEAD
+=======
+    // Here is a comment for part 10.
+    // Here is a second comment for part 10 because I think I messed up
+
+>>>>>>> e02726b (part 10)
     // User is able to declare an array length, then input numbers and calculations are performed on the elements.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
