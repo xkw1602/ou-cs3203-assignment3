@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 class Assignment3{
 
-    // User is able to declare an array length, then input numbers and calculations are performed.
+    // User is able to declare an array length, then input numbers and calculations are performed on the elements.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter desired length of array: ");
